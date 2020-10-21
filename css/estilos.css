@@ -1,0 +1,17 @@
+.fondo{
+ /*  background-color: #931a25;   */
+    margin: 1% ;
+   /* padding: 1%; */
+    border-radius: 10%;
+}
+
+::placeholder{
+  text-align: center;
+}
+
+
+
+
+
+
+
